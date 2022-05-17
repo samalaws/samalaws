@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @samalaws
+- 👋 Hi, I’m @samalaws "Samer Alaws"
 - 👀 I’m interested in Java , Python, HTML, CSS, JS
 - 🌱 I’m currently learning ... Django .. solidity.
-- 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... alaws.de
 
 <!---
