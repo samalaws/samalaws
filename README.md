@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @samalaws "Samer Alaws"
-- 👀 I’m interested in Java , Python, HTML, CSS, JS
-- 🌱 I’m currently learning ... Django .. solidity.
+- 👀 I’m interested in JS, React, Java, Python ..
 - 📫 How to reach me ... alaws.de
 
 <!---
