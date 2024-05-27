@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @samalaws "Samer Alaws"
 - 👀 I’m interested in JS, React, Java, Python ..
-- 📫 How to reach me ... alaws.de
+- 📫 How to reach me ... www.alaws.de
 
 <!---
 samalaws/samalaws is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
